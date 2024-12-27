@@ -1,0 +1,20 @@
+{
+  "name": "shopping-service-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "camunda-external-task-client-js": "^3.1.0",
+    "shopping-service-nodejs": "file:"
+  },
+  "devDependencies": {
+    "open": "^10.1.0"
+  },
+  "type": "module"
+}
