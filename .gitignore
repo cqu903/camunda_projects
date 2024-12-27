@@ -12,6 +12,9 @@
 *.tar.gz
 *.rar
 
+# Maven build directory
+target/
+
 
 
 # IDE files
